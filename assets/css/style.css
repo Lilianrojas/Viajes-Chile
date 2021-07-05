@@ -1,0 +1,75 @@
+/*nav  bar*/
+nav{
+    color:white; filter:alpha(opacity=100); opacity:1;
+}
+
+.navbar-brand{
+    font-size: 40px;
+    font-family: "oswald";
+    font-weight: bold;
+}
+.navbar-brand img{
+    height: 40px;
+}
+.carousel{
+    padding: 10px;
+
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+/*· Linea celeste divisora*/
+.lineaceleste{
+    background-color: #17a2b8;
+}
+
+/*· bloques de texto*/
+
+.subtitulo{
+    
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+
+}
+
+.parrafo{
+    font-size: 15px;
+    color: white;
+    
+}
+
+.bgbloquestexto{
+    background-color: black;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+
+.card img{
+    max-height: 150px;
+  }
+
+ /*· fondo contacto */
+
+ .contacto{
+     background-color: white;
+     color:black;
+ }
+
+ .contacto2{
+     color:white;
+ }
+
+
+
+
+  /*· footer */
+footer{
+    background-color: #17a2b8 ;
+    color: white;
+}
+
